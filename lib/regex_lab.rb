@@ -22,5 +22,5 @@ end
 end
 
 def valid_phone_number?(phone)
-/(\d{3}\) \d{3}-\d{4}/
+# /(\d{3}\) \d{3}-\d{4}/
 end
