@@ -5,9 +5,9 @@ else
   false
 end
 end
-# def words_starting_with_un_and_ending_with_ing(text)
-#   /\b[un]*\b[ing]/
-# end
+def words_starting_with_un_and_ending_with_ing(text)
+  /\b[un]*\b[ing]/
+end
 
 # def words_five_letters_long(text)
 # /\b\w[A-Z]{5}\b/
