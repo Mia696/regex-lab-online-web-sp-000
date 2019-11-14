@@ -9,9 +9,9 @@ def words_starting_with_un_and_ending_with_ing(text)
   text.scan(/\bun\w*ing\b/)
 end
 
-# def words_five_letters_long(text)
-# /\b\w[A-Z]{5}\b/
-# end
+def words_five_letters_long(text)
+/\b\w[A-Z]{5}\b/
+end
 
 # def first_word_capitalized_and_ends_with_punctuation?(text)
 # /\w^[A-Z]\w[?]/
