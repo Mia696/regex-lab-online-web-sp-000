@@ -21,6 +21,6 @@ else
 end
 end
 
-def valid_phone_number?(phone)
-/(\d{3}\) \d{3}-\d{4}/
-end
+# def valid_phone_number?(phone)
+# /(\d{3}\) \d{3}-\d{4}/
+# end
